@@ -9,5 +9,6 @@ Git enables us to review how a project grows and to easily look at or restore fi
 Once connected to a network, Git allows you to **push a project to GitHub**.
 
 - **Git** is a very popular **version control system** and it works on your **local** machine
-- **GitHub** is a service, a **remote** storage facility on the web that allows you to **upload code using Git** and to manage your code with a nice web interface.<br> 
+- **GitHub** is a service, a **remote** storage facility on the web that allows you to **upload code using Git** and to manage your code with a nice web interface.<br>
+
 This means that by learning Git, you will get to showcase your portfolio on GitHub!
